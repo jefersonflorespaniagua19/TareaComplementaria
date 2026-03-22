@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\bin\Debug\net9.0\School.Application.deps.json
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\bin\Debug\net9.0\School.Application.dll
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\bin\Debug\net9.0\School.Application.pdb
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\bin\Debug\net9.0\School.Domain.dll
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\bin\Debug\net9.0\School.Domain.pdb
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\obj\Debug\net9.0\School.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\obj\Debug\net9.0\School.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\obj\Debug\net9.0\School.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\obj\Debug\net9.0\School.Application.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\obj\Debug\net9.0\School.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\obj\Debug\net9.0\School.A.0288516A.Up2Date
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\obj\Debug\net9.0\School.Application.dll
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\obj\Debug\net9.0\refint\School.Application.dll
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\obj\Debug\net9.0\School.Application.pdb
+C:\Users\Usuario\Desktop\TareaComplementariaProgramacion2\SchoolApp\School.Application\obj\Debug\net9.0\ref\School.Application.dll
